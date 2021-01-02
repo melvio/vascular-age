@@ -1,0 +1,11 @@
+k: 500
+feature_cols:
+  - 'tot_vol_cor'
+  - 'tot_vol_aor'
+  - 'tot_vol_eci'
+  - 'tot_vol_ici'
+  - 'tot_vol_vbac'
+#scaling: 'MinMaxScaler'
+#scaling: 'RobustScaler'
+scaling: 'PowerTransformer'
+#scaling: 'QuantileTransformer'

@@ -1,0 +1,15 @@
+venv*
+DATA
+data/
+build/
+dist
+*.egg-info/
+
+
+__pycache__
+var/
+*.zip
+backup_thesis*
+
+
+
