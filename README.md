@@ -3,6 +3,20 @@
 This project contains the publicly available code for my master project software engineering on vascular age.
 
 
+## Architecture
+
+
+
+![Architecture][./var/source_code_thesis.pdf]("Architecture: This project can both be used in a batch processor and in a library.")
+
+
+
+
+
+
+
+
+
 ## Usage Hints
 
 0. Ensure you are in the root dir of the project
