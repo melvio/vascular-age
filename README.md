@@ -4,10 +4,9 @@ This project contains the publicly available code for my master project software
 
 
 ## Architecture
+This project can both be used in a batch processor and in a library:
 
-
-
-![Architecture][./docs/source_code_thesis.pdf]("Architecture: This project can both be used in a batch processor and in a library.")
+![Architecture](docs/source_code_thesis.pdf)
 
 
 
