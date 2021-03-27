@@ -12,9 +12,9 @@ This project contains the publicly available code for my master project software
 ## Usage Hints
 
 0. Ensure you are in the root dir of the project
-``bash
+```bash
 cd PROJECT_DIR
-``
+```
 
 1. If no virtual environment exists yet (i.e. no `venv3.*` folder available) then create it:
 ```bash
